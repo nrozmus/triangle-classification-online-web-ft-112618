@@ -1,3 +1,8 @@
+
 class Triangle
-  # write code here
+def instance(kind)
+ 
+  class TriangleError < StandardError
+    # triangle error code
+  end
 end
